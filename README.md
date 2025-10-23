@@ -1,9 +1,9 @@
-## 🐍 CS50P — Introduction to Programming with Python
+##  CS50P — Introduction to Programming with Python
 
 Welcome to my CS50P repository — a complete collection of weekly problem sets and projects from Harvard’s Introduction to Programming with Python.
 All solutions were developed and tested using the official CS50 Duck IDE environment. 💻
 
-## 📘 Overview
+##  Overview
 
 This repository contains my personal implementations of the weekly assignments from the CS50P course.
 Each folder represents one week of the curriculum and includes exercises, problem sets, and sometimes additional notes or test files.
@@ -26,7 +26,7 @@ CS50P/
 Each directory contains the solutions for that specific week.
 Additional files (like test scripts or datasets) are included where needed.
 
-## 🧩 Weekly Topics
+##  Weekly Topics
 Week	Title	Main Concepts
 0	Functions & Variables	Basics, I/O, Conditionals
 1	Loops	For/While loops, Control Flow
@@ -38,7 +38,7 @@ Week	Title	Main Concepts
 7	Regular Expressions	Pattern Matching, Validation
 8	Object-Oriented Programming	Classes, Encapsulation, Methods
 Final	Final Project	Integrating All Concepts
-🧠 Learning Outcomes
+ Learning Outcomes
 
 By completing this course, I’ve developed the ability to:
 
@@ -54,7 +54,7 @@ Write and run automated tests.
 
 Handle files, data, and exceptions gracefully.
 
-## 🛠️ Development Environment
+##  Development Environment
 
 All work was done using the CS50 Duck IDE, which includes:
 
@@ -64,11 +64,11 @@ Built-in CS50 tools (check50, submit50, style50)
 
 Git integration for version control
 
-## 🎯 Purpose
+##  Purpose
 
 This repository documents my journey through the CS50P course — a foundational step toward mastering Python programming and preparing for more advanced CS and AI concepts.
 
-## 🧾 License
+##  License
 
 This repository follows the CS50 Academic Honesty policy.
 Code and solutions are for educational and reference purposes only.
