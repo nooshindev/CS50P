@@ -72,7 +72,7 @@ This repository documents my journey through the CS50P course — a foundational
 ##  License
 ## 🏅 CS50P Certificate
 
-![CS50P Certificate](photo21581590962.png)
+![CS50P Certificate](photo21581590962.jpg)
 
 This repository follows the CS50 Academic Honesty policy.
 Code and solutions are for educational and reference purposes only.
