@@ -68,7 +68,11 @@ Git integration for version control
 
 This repository documents my journey through the CS50P course — a foundational step toward mastering Python programming and preparing for more advanced CS and AI concepts.
 
+
 ##  License
+## 🏅 CS50P Certificate
+
+![CS50P Certificate](photo21581590962.png)
 
 This repository follows the CS50 Academic Honesty policy.
 Code and solutions are for educational and reference purposes only.
