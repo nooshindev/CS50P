@@ -16,15 +16,15 @@ All code was written and tested in CS50 Duck IDE to ensure full compatibility wi
 ## 📁 Repository Structure
 
 CS50P/
-├── [week0/][View Code](./week0)
-├── [week1/](https://nooshindev.github.io/CS50P/week1)
-├── [week2/](https://nooshindev.github.io/CS50P/week2)
-├── [week3/](https://nooshindev.github.io/CS50P/week3)
-├── week4/
-├── week5/
-├── week6/
-├── week7/
-├── week8/
+├── [week0/](./week0)
+├── [week1/](./week1)
+├── [week2/](./week2)
+├── [week3/](./week3)
+├── [week4/](./week4)
+├── [week5/](./week5)
+├── [week6/](./week6)
+├── [week7/](./week7)
+├── [week8/](./week8)
 └── final_project/
 
 Each directory contains the solutions for that specific week.
