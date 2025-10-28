@@ -16,7 +16,7 @@ All code was written and tested in CS50 Duck IDE to ensure full compatibility wi
 ## 📁 Repository Structure
 
 CS50P/
-├── week0/
+├── week0/(https://nooshindev.github.io/CS50P/week0)
 ├── week1/
 ├── week2/
 ├── week3/
