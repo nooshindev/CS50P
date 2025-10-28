@@ -25,7 +25,7 @@ CS50P/
 ├── [week6/](./week6)
 ├── [week7/](./week7)
 ├── [week8/](./week8)
-└── final_project/
+└── [final_project/](./final_project)
 
 Each directory contains the solutions for that specific week.
 Additional files (like test scripts or datasets) are included where needed.
